@@ -1,5 +1,5 @@
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="" width="320" height="240">
-    <source src="./docs/01-expanding-cards.mp4" type="video/mp4">
-  </video>
-</figure>
+## Expanding Cards
+Project #1 of [50 Projects in 50 Days](https://50projects50days.com/)
+![html](./docs/icon-html-5-48.png)![css](docs/icon-css3-48.png)![js](docs/icon-javascript-48.png)
+
+![expanding-cards](docs/01-expanding-cards.gif)
