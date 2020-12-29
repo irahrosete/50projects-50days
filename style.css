@@ -107,12 +107,12 @@ nav ul li + li + li {
 }
 
 .content img {
-  max-width: 100%;
+  max-width: 50%;
 }
 
 .content {
   max-width: 1000px;
-  margin: 50px auto;
+  margin: 30px auto;
 }
 
 .content h1 {
