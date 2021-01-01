@@ -6,4 +6,5 @@ This is a compilation of all the mini-projects built from the [50projects50days]
 02 [Progress Steps](https://github.com/irahrosete/50projects-50days/tree/main/02-progress-steps)<br>
 03 [Rotating Navigation](https://github.com/irahrosete/50projects-50days/tree/main/03-rotating-navigation)<br>
 04 [Hidden Search Widget](https://github.com/irahrosete/50projects-50days/tree/main/04-hidden-search-widget)<br>
-05 [Blurry Loading]()
+05 [Blurry Loading](https://github.com/irahrosete/50projects-50days/tree/main/05-blurry-loading)<br>
+06 [Scroll Animation]()
