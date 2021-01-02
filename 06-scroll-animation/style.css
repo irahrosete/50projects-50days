@@ -12,10 +12,12 @@ body {
   align-items: center;
   justify-content: center;
   margin: 0;
+  overflow-x: hidden;
 }
 
 h1 {
   margin: 10px;
+  font-size: 42px;
 }
 
 .box {
@@ -38,9 +40,9 @@ h1 {
 }
 
 .box.show {
-  transform: translateX();
+  transform: translateX(0);
 }
 
 .box h2 {
-  font-size: 30px;
+  font-size: 28px;
 }
