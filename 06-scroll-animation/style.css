@@ -20,7 +20,7 @@ h1 {
 
 .box {
   background-color: #3a4652;
-  color: #fff;
+  color: #fafaf0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -29,4 +29,18 @@ h1 {
   margin: 10px;
   border-radius: 10px;
   box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
+  transform: translateX(200%);
+  transition: transform 0.4s ease;
+}
+
+.box:nth-last-of-type(even) {
+  transform: translateX(-200%);
+}
+
+.box.show {
+  transform: translateX();
+}
+
+.box h2 {
+  font-size: 30px;
 }
