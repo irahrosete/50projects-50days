@@ -3,7 +3,6 @@
 :root {
   --left-bg-color: rgba(214, 238, 235, 0.7);
   --right-bg-color: rgba(43, 43, 43, 0.8);
-
 }
 
   * {
@@ -15,6 +14,34 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #fff;
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+
+.btn {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 50%;
+  top: 40%;
+  transform: translateX(-50%);
+  text-decoration: none;
+  color: #fff;
+  border: #fff solid 0.2rem;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  width: 15rem;
+  padding: 1rem;
 }
 
 .container {
