@@ -76,7 +76,7 @@ h1 {
 
 .split.left {
   left: 0;
-  background: url('luigis-mansion-3.jpg');
+  background: url('./docs/luigis-mansion-3.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -91,7 +91,7 @@ h1 {
 
 .split.right {
   right: 0;
-  background: url('super-mario-bros-u-deluxe.jpg');
+  background: url('./docs/super-mario-bros-u-deluxe.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -127,11 +127,12 @@ h1 {
 @media(max-width: 800px) {
   h1 {
     font-size: 2rem;
-    top: 30%;
+    top: 25%;
   }
 
   .btn {
-    padding: 0.8rem;
-    width: 12rem;
+    padding: 0.5rem;
+    width: 9rem;
+    border: #fff solid 0.1rem;
   }
 }
